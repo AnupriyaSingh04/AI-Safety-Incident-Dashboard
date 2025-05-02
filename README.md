@@ -5,7 +5,7 @@
 This AI Safety Incident Dashboard is a responsive web application built for HumanChain's take-home assignment. The dashboard provides a comprehensive interface for monitoring, filtering, and reporting AI safety incidents, helping to build a safer, more trustworthy, and human-centric digital world.
 
 ### 🌟 Live Demo
-Demo Link: https://ai-safety-incident-dashboard04.netlify.app/
+Demo Link: https://ai-safety-incident-dashboard26.netlify.app/
 
 ## ✨ Features
 
